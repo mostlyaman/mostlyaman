@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @mostlyaman
-- :heart: Python is my only friend.
-- 👀 I’m interested in learning new things by practical applications.
+- :book: Student
 - 🌱 I’m currently learning to contribute to open-source.
 - 🌎 I’m looking to collaborate on saving the planet.
-- 📫 How to reach me? I'd prefer if you would not (socially awkward *cough cough*). But we can talk on email @ amansharma110603@outlook.com
+- 📫 talk on email @ amansharma110603@outlook.com
 
 <!---
 mostlyaman/mostlyaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
