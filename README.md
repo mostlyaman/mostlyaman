@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mostlyaman
-- :book: Student
+- :book: Student at IIT Mandi
 - 🌱 I’m currently learning to contribute to open-source.
 - 🌎 I’m looking to collaborate on saving the planet.
 - 📫 talk on email @ amansharma110603@outlook.com
